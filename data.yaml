@@ -1,0 +1,5 @@
+train: E:/NSLD/data/Train/images
+val: E:/NSLD/data/Val/images
+
+nc: 10
+names: ['Shunno', 'Eek', 'Dui', 'Tiin', 'Chaar', 'Paach', 'Choy', 'Shat', 'Aat', 'Noy']
